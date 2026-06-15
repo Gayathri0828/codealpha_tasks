@@ -35,7 +35,7 @@ An AI-powered chatbot that interacts with users and provides responses to user q
 
 ## Author
 
-Gayathri
+ Batchu Indu Gayathri
 
 ## Internship
 
